@@ -1,0 +1,21 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+
+int main(){
+    int n, a, ck=1;
+    cin >> n;
+    while (n--)
+    {
+        cin >> a;
+        if(a){
+            cout << "HARD";
+            ck = 0;
+            break;
+        }
+    }
+    if(ck)
+        cout << "EASY";
+    return 0;
+}
+    
