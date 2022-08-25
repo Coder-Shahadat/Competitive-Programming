@@ -64,7 +64,7 @@ void solve() {
             line(m, 0);
             line(m, 1);
         }
-        p ^= 1; // if start = 0 then 0 xor 1 = 1 and if start=1 then 1 xor 1 = 0
+        p ^= 1; // if p = 0 then 0 xor 1 = 1 and if p=1 then 1 xor 1 = 0
     }
 }
 
