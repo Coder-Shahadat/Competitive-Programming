@@ -1,3 +1,8 @@
+// Author: MD.Shahadat Hossain Bhuian
+// Codeforces userName : __Shahadat__
+// CodeChef userName : shahadat_43
+//---------------------------------------------
+
 #include <bits/stdc++.h>
 using namespace std;
 typedef long long ll;
