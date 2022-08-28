@@ -1,5 +1,5 @@
 // Contest Platform: Codeforces
-// Contest Name : C. Min-Max Array Transformation
+// Contest Name : Educational Codeforces Round 134 (Rated for Div. 2)
 // Problem Name : C. Min-Max Array Transformation
 // Author: MD.Shahadat Hossain Bhuian
 // Codeforces userName : __Shahadat__
