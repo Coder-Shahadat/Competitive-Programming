@@ -1,6 +1,6 @@
-// Contest Platform: 
-// Contest Name : 
-// Problem Name : 
+// Contest Platform: Codeforces
+// Contest Name : Codeforces Round #816 (Div. 2)
+// Problem Name : C. Monoblock
 // Author: MD.Shahadat Hossain Bhuian
 // Codeforces userName : __Shahadat__
 // CodeChef userName : shahadat_43
