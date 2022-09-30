@@ -73,7 +73,7 @@ void solve()
     a[0] = d[0];
     loop(i, 1, n - 1, 1)
     {
-        if ((a[i - 1] - d[i]) > 0 and d[i] != 0)
+        if ((a[i - 1] - d[i]) >= 0 and d[i] != 0)
         {
             dp_x(-1);
             return;
