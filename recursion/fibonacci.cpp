@@ -64,7 +64,7 @@ ll binExp(ll a,ll b){
     }
     return ans;
 }
-
+ 
 ll f(ll a){
     if(a<=1)
         return a;
